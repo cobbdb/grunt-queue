@@ -45,6 +45,6 @@ The task can be loaded like any other grunt contrib:
     grunt.loadNpmTasks('grunt-queue');
 
 ---------
-* See: https://www.npmjs.org/package/grunt-docker-clone
-* See: http://github.com/cobbdb/grunt-docker-clone
+* See: https://www.npmjs.org/package/grunt-queue
+* See: http://github.com/cobbdb/grunt-queue
 * License: MIT
